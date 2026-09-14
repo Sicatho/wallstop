@@ -1,0 +1,16 @@
+Converting GML script: E:\funstuff\PPP.gmx\mvc\objects\obj_controller\Create_0.gml
+Converted description /// @description initialize states
+
+Converting GML script: E:\funstuff\PPP.gmx\mvc\objects\obj_controller\Step_0.gml
+String not found: ConversionLog_ConvertedString 1 'R' "R"
+
+Converting GML script: E:\funstuff\PPP.gmx\mvc\objects\obj_plr\Create_0.gml
+Converted description /// @description initialize variables
+
+Converting GML script: E:\funstuff\PPP.gmx\mvc\objects\obj_plr\Step_0.gml
+Converted description /// @description states
+
+Game speed set to 30
+Added compatibility script 'instance\instance_create.gml'
+Added compatibility script 'object\object_get_depth.gml'
+Added compatibility script '__global_object_depths.gml'
